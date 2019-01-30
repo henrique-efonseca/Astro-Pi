@@ -16,7 +16,7 @@
 <b> City:</b> Oeiras <br>
 <b> Country:</b> Portugal <br>
 <br>
-<br>
+
 
 # Introduction
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis molestie orci. In at augue ut erat pellentesque elementum ut sed justo. Morbi et maximus justo. Nunc volutpat enim sagittis orci interdum posuere. Fusce pellentesque orci efficitur orci rutrum rutrum. Cras fermentum, ipsum ac posuere eleifend, erat turpis molestie urna, quis placerat ipsum urna id eros. Mauris vel quam a elit porttitor condimentum sed vel velit. In id cursus dolor, id pharetra elit. Praesent porta ante lorem, 
