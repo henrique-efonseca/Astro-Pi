@@ -3,7 +3,7 @@
 <b> Astro-Pi Mission Space Lab 2018-2019 </b> <br>
 <b> Team name: </b> cos(π) - Coding of Space <br>
 <b> Professor:</b> M. Cristina Pinho <br>
-<b> Elements:</b> <br>
+<b> Students:</b> <br>
 <ul>
 <li> David Afonso <br>
 <li> David Dantas <br>
@@ -13,7 +13,7 @@
 <li> Tomás Gamito<br>
 </ul>
 <b> School: </b> Escola Secundária Sebastião e Silva<br>
-<b> Cirty:</b> Oeiras <br>
+<b> City:</b> Oeiras <br>
 <b> Country:</b> Portugal <br>
 <br>
 <br>
