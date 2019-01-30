@@ -1,6 +1,6 @@
 # cos(π) - Astro Pi Code
 
-<b> European Astro-Pi challenge 2018-2019 </b> <br>
+<b> Astro-Pi Mission Space Lab 2018-2019 </b> <br>
 <b> Team name: </b> cos(π) - Coding of Space <br>
 <b> Professor:</b> M. Cristina Pinho <br>
 <b> Elements:</b> <br>
