@@ -43,13 +43,12 @@ Proin eget laoreet est, eu aliquam massa. Nam porttitor vehicula diam a posuere.
 
 
 		y = mx + b			∆ay = ay – ay0			∆az = az – az0
-
 <br>
 <br>
  
+ 
 # Results from experiment 
 Proin eget laoreet est, eu aliquam massa. Nam porttitor vehicula diam a posuere. Nullam quis tempus eros. Aliquam rhoncus est nunc, cursus lobortis neque bibendum sed. Cras scelerisque tellus neque, id ultricies sem rutrum ut. Proin tincidunt gravida dui, at tempus tortor facilisis sed. Interdum et malesuada fames ac ante ipsum primis in faucibus. Etiam consectetur sagittis iaculis. Aliquam erat volutpat. Quisque libero eros, mollis id lorem eget, pharetra tincidunt nisi. Cras in ex ac tellus vestibulum vulputate. Suspendisse lectus mi, bibendum ac arcu sit amet, facilisis rhoncus nunc. Curabitur euismod, mi vel sagittis tempor, nunc ligula ullamcorper nisl, vel laoreet lacus magna in nulla. Phasellus viverra varius urna quis feugiat. Aenean euismod arcu ut feugiat auctor.
-
 <br>
 <br>
 
@@ -61,8 +60,9 @@ Proin eget laoreet est, eu aliquam massa. Nam porttitor vehicula diam a posuere.
     <li> Topic 2 <br>
     <li> Topic 3 <br>
    </ul>
-   
    <br>
+   <br>
+   
    
 # Special thanks to </b> <br>
   <ul>
