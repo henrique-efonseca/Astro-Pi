@@ -5,7 +5,11 @@
 <b> School: </b> Escola Secundária Sebastião e Silva (Portgual)<br>
 <br>
 
-<b> Our mission: </b> <br>
+# Introduction
+
+
+
+# Our mission: <br>
   <ul>
     <li> Topic 1 <br>
     <li> Topic 2 <br>
