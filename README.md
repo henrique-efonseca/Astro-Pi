@@ -2,7 +2,16 @@
 
 <b> European Astro-Pi challenge 2018-2019 </b> <br>
 <b> Team name: </b> cos(π) - Coding of Space <br>
-<b> School: </b> Escola Secundária Sebastião e Silva (Portgual)<br>
+<b> Elements: 
+    <li> Professor M. Cristina Pinho <br>
+    <li> David Afonso <br>
+    <li> David Dantas <br>
+    <li> David Nabeiro <br>
+    <li> Henrique Fonseca<br>
+    <li> Rodrigo Estrela <br></b>
+<b> School: </b> Escola Secundária Sebastião e Silva<br>
+<b> Cirty:</b> Oeiras <br>
+<b> Country:</b> Portugal <br>
 <br>
 <br>
 
