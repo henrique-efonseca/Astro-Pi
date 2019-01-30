@@ -62,7 +62,7 @@ Proin eget laoreet est, eu aliquam massa. Nam porttitor vehicula diam a posuere.
    <br>
    
    
-# Special thanks to </b> <br>
+# Special thanks </b> <br>
   <ul>
     <li> Topic 1 <br>
     <li> Topic 2 <br>
