@@ -4,9 +4,9 @@
 <b> Team name: </b> cos(π) - Coding of Space <br>
 <b> School: </b> Escola Secundária Sebastião e Silva <br>
 
-<li> <i>Our misiony: </i> <br>
+<b> Our mision: </b> <br>
   <ul>
-    <li> Topic 1 <br>
+    <li> jkb <br>
     <li> Topic 2 <br>
     <li> Topic 3 <br>
       
