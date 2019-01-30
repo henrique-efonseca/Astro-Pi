@@ -60,7 +60,6 @@ Proin eget laoreet est, eu aliquam massa. Nam porttitor vehicula diam a posuere.
     <li> Topic 3 <br>
    </ul>
    <br>
-   <br>
    
    
 # Special thanks to </b> <br>
@@ -69,7 +68,6 @@ Proin eget laoreet est, eu aliquam massa. Nam porttitor vehicula diam a posuere.
     <li> Topic 2 <br>
     <li> Topic 3 <br>
    </ul>
-   <br>
    <br>
    
 
