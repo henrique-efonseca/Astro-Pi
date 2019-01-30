@@ -25,7 +25,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis molestie orci
 
 
 # Our mission <br>
-
  <b> Objectives: </b> <br>
   <ul>
     <li> Topic 1 <br>
