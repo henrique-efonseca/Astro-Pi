@@ -4,12 +4,14 @@
 <b> Team name: </b> cos(π) - Coding of Space <br>
 <b> Professor:</b> M. Cristina Pinho <br>
 <b> Elements:</b> <br>
+<ul>
 <li> David Afonso <br>
 <li> David Dantas <br>
 <li> David Nabeiro <br>
 <li> Henrique Fonseca<br>
 <li> Rodrigo Estrela <br>
 <li> Tomás Gamito<br>
+</ul>
 <b> School: </b> Escola Secundária Sebastião e Silva<br>
 <b> Cirty:</b> Oeiras <br>
 <b> Country:</b> Portugal <br>
