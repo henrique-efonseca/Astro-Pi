@@ -10,7 +10,7 @@
 <li> David Nabeiro <br>
 <li> Henrique Fonseca<br>
 <li> Rodrigo Estrela <br>
-<li> Tomás Gamito<br>
+<li> Tomás Carvalho<br>
 </ul>
 <b> School: </b> Escola Secundária Sebastião e Silva<br>
 <b> City:</b> Oeiras <br>
