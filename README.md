@@ -62,9 +62,9 @@ Proin eget laoreet est, eu aliquam massa. Nam porttitor vehicula diam a posuere.
    
 # Special thanks </b> <br>
   <ul>
-    <li> M. Cristina Pinho - Our mentor for this project <br>
-    <li> Francisco Santos - Professor of Computer Science at Instituto Superior Técnico <br>
-    <li> Afonso Gonçalves - Our friend and student at Instituto Superior Técnico <br>
+    <li> M. Cristina Pinho - Our mentor for this project for all the support<br>
+    <li> Francisco Santos - Professor of Computer Science at Instituto Superior Técnico for his scientific review of our experience <br>
+    <li> Afonso Gonçalves - Our friend for his help reviewing the code <br>
    </ul>
    <br>
    
