@@ -19,7 +19,7 @@
 
 
 # Introduction
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis molestie orci. In at augue ut erat pellentesque elementum ut sed justo. Morbi et maximus justo. Nunc volutpat enim sagittis orci interdum posuere. Fusce pellentesque orci efficitur orci rutrum rutrum. Cras fermentum, ipsum ac posuere eleifend, erat turpis molestie urna, quis placerat ipsum urna id eros. Mauris vel quam a elit porttitor condimentum sed vel velit. In id cursus dolor, id pharetra elit. Praesent porta ante lorem, 
+Our objective is to demonstrate the validity of Galileo's Theory of Relativity, from an experimental point of view, using the Raspberry Pi. By calculating the velocity of the earth with photos, we will then calculate the relative velocity between earth and ISS. As a secondary mission, using the values found we will determinate earth’s mass and medium density. We’ll also be using data science methods to find the experimental error associated with the AstroPi device.
 <br>
 <br>
 
@@ -72,4 +72,4 @@ Proin eget laoreet est, eu aliquam massa. Nam porttitor vehicula diam a posuere.
    
 
 # Mission Space Lab Informations
-https://astro-pi.org/missions/space-lab/
+<li> https://astro-pi.org/missions/space-lab/ </li>
