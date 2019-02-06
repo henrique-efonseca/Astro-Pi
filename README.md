@@ -55,18 +55,16 @@ Proin eget laoreet est, eu aliquam massa. Nam porttitor vehicula diam a posuere.
 # Files   
  <b> Files description: </b> <br>
   <ul>
-    <li> Topic 1 <br>
-    <li> Topic 2 <br>
-    <li> Topic 3 <br>
+    <li> main.py - This is the code of our project <br>
    </ul>
    <br>
    
    
 # Special thanks </b> <br>
   <ul>
-    <li> Topic 1 <br>
-    <li> Topic 2 <br>
-    <li> Topic 3 <br>
+    <li> M. Cristina Pinho - Our mentor for this project <br>
+    <li> Francisco Santos - Professor of Computer Science at Instituto Superior Técnico <br>
+    <li> Afonso Gonçalves - Our friend and student at Instituto Superior Técnico <br>
    </ul>
    <br>
    
