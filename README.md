@@ -25,7 +25,7 @@ Our objective is to demonstrate the validity of Galileo's Theory of Relativity, 
 
 
 # Our mission <br>
- <b> Objectives: </b> <br>
+
   
   
 
