@@ -19,7 +19,7 @@
 
 
 # Introduction
-Our objective is to demonstrate the validity of Galileo's Theory of Relativity, from an experimental point of view, using the Raspberry Pi. By a mathematical model deducted we used the photographs of the Earth among the coordinates to calculate the relative velocity. As a secondary mission, we used the Humidity, Pressure and Temperature sensors to turn the RaspberryPi into a Human-Presence detector. We have used also be using data science methods to find the experimental error associated with the AstroPi device.
+The main objective of the experiment is to study the relativity of the movement between a two-body system. We intend to demonstrate the validity of Galileo's Theory of Relativity, from an experimental point of view, using the Raspberry Pi. Using a mathematical model deducted, we used the photographs of the Earth among their coordinates to calculate the relative velocity and prove the importance of the Galileo's Theory of Relativity in experiments with this type of systems.  As a secondary mission, we used the Humidity, Pressure and Temperature sensors to turn the RaspberryPi into a Human-Presence detector. We have also used be data science methods to find the experimental error associated with the AstroPi device.
 <br>
 <br>
 
