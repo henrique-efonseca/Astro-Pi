@@ -19,7 +19,7 @@
 
 
 # Introduction
-Our objective is to demonstrate the validity of Galileo's Theory of Relativity, from an experimental point of view, using the Raspberry Pi. By calculating the velocity of the earth with photos, we will then calculate the relative velocity between earth and ISS. As a secondary mission, using the values found we will determinate earth’s mass and medium density. We’ll also be using data science methods to find the experimental error associated with the AstroPi device.
+Our objective is to demonstrate the validity of Galileo's Theory of Relativity, from an experimental point of view, using the Raspberry Pi. By a mathematical model deducted we used the photographs of the Earth among the coordinates to calculate the relative velocity. As a secondary mission, we used the Humidity, Pressure and Temperature sensors to turn the RaspberryPi into a Human-Presence detector. We have used also be using data science methods to find the experimental error associated with the AstroPi device.
 <br>
 <br>
 
