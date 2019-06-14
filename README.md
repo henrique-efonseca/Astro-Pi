@@ -42,6 +42,7 @@ Our objective is to demonstrate the validity of Galileo's Theory of Relativity, 
  <b> Files description: </b> <br>
   <ul>
     <li> main.py - This is the code of our project <br>
+    <li> Report.pdf - This is our Report of the experiment <br>
    </ul>
    <br>
    
