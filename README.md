@@ -23,17 +23,6 @@ The main objective of the experiment is to study the relativity of the movement 
 <br>
 <br>
 
-
-# Our mission <br>
-
-  
-  
-
-  
-  			
-<br>
-<br>
- 
  
 
 
