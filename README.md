@@ -43,6 +43,9 @@ The main objective of the experiment is to study the relativity of the movement 
   <ul>
     <li> main.py - This is the code of our project <br>
     <li> Report.pdf - This is our Report of the experiment <br>
+    <li> Data01.csv - This is a file with some data we collected <br>
+    <li> Data01.csv - This is a file with some data we collected <br>
+    <li> Report.pdf - This is our Report of the experiment <br>
    </ul>
    <br>
    
