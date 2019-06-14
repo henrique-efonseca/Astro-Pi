@@ -45,7 +45,8 @@ The main objective of the experiment is to study the relativity of the movement 
     <li> Report.pdf - This is our Report of the experiment <br>
     <li> Data01.csv - This is a file with some data we collected <br>
     <li> Data01.csv - This is a file with some data we collected <br>
-    <li> Report.pdf - This is our Report of the experiment <br>
+    <li> Log-Files.log - This is our logs <br>
+    <li> Photographs - This are some of the photographs we've took <br>  
    </ul>
    <br>
    
