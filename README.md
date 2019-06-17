@@ -53,4 +53,4 @@ The main objective of the experiment is to study the relativity of the movement 
 <li> https://astro-pi.org/missions/space-lab/ </li>
 
 
-[Afonso](https://github.com/afonsocrg)
+
