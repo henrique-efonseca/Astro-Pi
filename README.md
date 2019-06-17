@@ -44,7 +44,7 @@ The main objective of the experiment is to study the relativity of the movement 
   <ul>
     <li> M. Cristina Pinho - Our mentor for this project, for all the support<br>
     <li> Francisco Santos - Professor at Instituto Superior Técnico, for his scientific review of our experiment <br>
-    <li> [Afonso Gonçalves](https://github.com/afonsocrg) - Our friend, for his help reviewing the code <br>
+    <li> Afonso Gonçalves (https://github.com/afonsocrg) - Our friend, for his help reviewing the code <br>
    </ul>
    <br>
    
