@@ -51,3 +51,5 @@ The main objective of the experiment is to study the relativity of the movement 
 
 # Mission Space Lab Informations
 <li> https://astro-pi.org/missions/space-lab/ </li>
+
+[Daniel](https://github.com/Beu-Wolf)
