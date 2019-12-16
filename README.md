@@ -30,7 +30,7 @@ The main objective of the experiment is to study the relativity of the movement 
 # Files   
  <b> Files description: </b> <br>
   <ul>
-    <li> main.py - This is the code of our project <br>
+    <li> [main.py](https://github.com/henrique-efonseca/AstroPi/blob/master/main.py) - This is the code of our project <br>
     <li> Report.pdf - This is our Report of the experiment <br>
     <li> Data01.csv - This is a file with some data we collected <br>
     <li> Data01.csv - This is a file with some data we collected <br>
