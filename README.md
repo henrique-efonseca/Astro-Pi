@@ -8,7 +8,7 @@
 <li> David Afonso <br>
 <li> David Dantas <br>
 <li> David Nabeiro <br>
-<li> Henrique Fonseca<br>
+<li> <a href="https://github.com/henrique-efonseca"> Henrique Fonseca </a> <br>
 <li> Rodrigo Estrela <br>
 <li> Tomás Carvalho<br>
 </ul>
@@ -30,12 +30,12 @@ The main objective of the experiment is to study the relativity of the movement 
 # Files   
  <b> Files description: </b> <br>
   <ul>
-    <li> [main.py](https://github.com/henrique-efonseca/AstroPi/blob/master/main.py) - This is the code of our project <br>
-    <li> Report.pdf - This is our Report of the experiment <br>
-    <li> Data01.csv - This is a file with some data we collected <br>
-    <li> Data01.csv - This is a file with some data we collected <br>
-    <li> Log-Files.log - This is our logs <br>
-    <li> Photographs - This are some of the photographs we've took <br>  
+    <li> <a href="https://github.com/henrique-efonseca/AstroPi/blob/master/main.py"> main.py - This is the code of our project </a>  <br>
+ <li> <a href="https://github.com/henrique-efonseca/AstroPi/blob/master/Report.pdf"> Report.pdf - This is our Report of the experiment</a>  <br>
+    <li> <a href="https://github.com/henrique-efonseca/AstroPi/blob/master/Data01.csv"> Data01.csv - This is a file with some raw data we collected</a>  <br>
+    <li> <a href="https://github.com/henrique-efonseca/AstroPi/blob/master/Data02.csv"> Data02.csv - This is a file with some raw data we collected </a>  <br>
+    <li> <a href="https://github.com/henrique-efonseca/AstroPi/blob/master/Log-Files.log"> Log-Files.log - This are our logs</a>  <br>
+    <li> <a href="https://github.com/henrique-efonseca/AstroPi/tree/master/Photographs"> Photographs - Here are some of the photographs we've took </a>  <br>  
    </ul>
    <br>
    
