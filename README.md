@@ -36,10 +36,10 @@ The main objective of the experiment is to study the relativity of the movement 
 # Files   
  <b> Files description: </b> <br>
   <ul>
-    <li> <a href="https://github.com/henrique-efonseca/AstroPi/blob/master/main.py"> main.py</a> - Program Code of the project. <br>
+    <li> <a href="https://github.com/henrique-efonseca/AstroPi/blob/master/main.py"> main.py</a> - Program of the project. <br>
  <li> <a href="https://github.com/henrique-efonseca/AstroPi/blob/master/Report.pdf"> Report.pdf</a> - Final report of the experiment. <br>
     <li> <a href="https://github.com/henrique-efonseca/AstroPi/blob/master/Data01.csv"> Data01.csv</a> - File with raw data collected.  <br>
-    <li> <a href="https://github.com/henrique-efonseca/AstroPi/blob/master/Data02.csv"> Data02.csv</a> - File with raw data collected   <br>
+    <li> <a href="https://github.com/henrique-efonseca/AstroPi/blob/master/Data02.csv"> Data02.csv</a> - File with raw data collected.  <br>
     <li> <a href="https://github.com/henrique-efonseca/AstroPi/blob/master/Log-Files.log"> Log-Files.log</a> - File with the logs of the program.  <br>
     <li> <a href="https://github.com/henrique-efonseca/AstroPi/tree/master/Photographs"> Photographs</a> - Folder with some photographs taken with the Astro Pi.  <br>  
    </ul>
