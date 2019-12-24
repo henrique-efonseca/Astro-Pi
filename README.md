@@ -19,9 +19,10 @@
 
 
 # Introduction
-"_The European Astro Pi Challenge is an ESA Education project run in collaboration with the Raspberry Pi Foundation. It offers young people the amazing opportunity to conduct scientific investigations in space by writing computer programs that run on Raspberry Pi computers aboard the International Space Station (ISS)_."
+"_The European Astro Pi Challenge is an ESA Education project run in collaboration with the Raspberry Pi Foundation. It offers young people the amazing opportunity to conduct scientific investigations in space by writing computer programs that run on Raspberry Pi computers aboard the International Space Station (ISS)_." <br>
 <br>
-"_Mission Space Lab offers students and young people the chance to have their scientific experiments run on the ISS. Your challenge is to design and program an experiment to be run on an Astro Pi computer. The best experiments will be deployed to the ISS, and your team will have the opportunity to analyse your results and put together a short report about your findings. The ten teams that write the best reports will be selected as the Astro Pi Mission Space Lab winners_!"
+"_Mission Space Lab offers students and young people the chance to have their scientific experiments run on the ISS. Your challenge is to design and program an experiment to be run on an Astro Pi computer. The best experiments will be deployed to the ISS, and your team will have the opportunity to analyse your results and put together a short report about your findings. The ten teams that write the best reports will be selected as the Astro Pi Mission Space Lab winners_!"<br>
+<br>
 
 # Mission Resume
 The main objective of the experiment is to study the relativity of the movement between a two-body system. We intend to demonstrate the validity of Galileo's Theory of Relativity, from an experimental point of view, using the Raspberry Pi. Using a mathematical model deducted, we used the photographs of the Earth among their coordinates to calculate the relative velocity and prove the importance of the Galileo's Theory of Relativity in experiments with this type of systems.  As a secondary mission, we used the Humidity, Pressure and Temperature sensors to turn the RaspberryPi into a Human-Presence detector. We have also used be data science methods to find the experimental error associated with the AstroPi device.
