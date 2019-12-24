@@ -36,21 +36,21 @@ The main objective of the experiment is to study the relativity of the movement 
 # Files   
  <b> Files description: </b> <br>
   <ul>
-    <li> <a href="https://github.com/henrique-efonseca/AstroPi/blob/master/main.py"> main.py</a> - This is the code of our project <br>
- <li> <a href="https://github.com/henrique-efonseca/AstroPi/blob/master/Report.pdf"> Report.pdf</a> - This is our Report of the experiment <br>
-    <li> <a href="https://github.com/henrique-efonseca/AstroPi/blob/master/Data01.csv"> Data01.csv</a> - This is a file with some raw data we collected  <br>
-    <li> <a href="https://github.com/henrique-efonseca/AstroPi/blob/master/Data02.csv"> Data02.csv</a> - This is a file with some raw data we collected   <br>
-    <li> <a href="https://github.com/henrique-efonseca/AstroPi/blob/master/Log-Files.log"> Log-Files.log</a> - This are our logs  <br>
-    <li> <a href="https://github.com/henrique-efonseca/AstroPi/tree/master/Photographs"> Photographs</a> - Here are some of the photographs we've took  <br>  
+    <li> <a href="https://github.com/henrique-efonseca/AstroPi/blob/master/main.py"> main.py</a> - Program Code of the project. <br>
+ <li> <a href="https://github.com/henrique-efonseca/AstroPi/blob/master/Report.pdf"> Report.pdf</a> - Final report of the experiment. <br>
+    <li> <a href="https://github.com/henrique-efonseca/AstroPi/blob/master/Data01.csv"> Data01.csv</a> - File with raw data collected.  <br>
+    <li> <a href="https://github.com/henrique-efonseca/AstroPi/blob/master/Data02.csv"> Data02.csv</a> - File with raw data collected   <br>
+    <li> <a href="https://github.com/henrique-efonseca/AstroPi/blob/master/Log-Files.log"> Log-Files.log</a> - File with the logs of the program.  <br>
+    <li> <a href="https://github.com/henrique-efonseca/AstroPi/tree/master/Photographs"> Photographs</a> - Folder with some photographs taken with the Astro Pi.  <br>  
    </ul>
    <br>
    
    
 # Special Thanks </b> <br>
   <ul>
-    <li> M. Cristina Pinho - Our mentor for this project, for all the support<br>
-    <li> Francisco Santos - Professor at Instituto Superior Técnico, for his scientific review of our experiment <br>
-    <li> <a href="https://github.com/afonsocrg">Afonso Gonçalves</a> - Our friend, for his help reviewing the code    <br>
+    <li> M. Cristina Pinho - Our Professor and Mentor for this project, for all the support.<br>
+    <li> Francisco Santos - Professor at Instituto Superior Técnico, for his scientific review of the experiment. <br>
+    <li> <a href="https://github.com/afonsocrg">Afonso Gonçalves</a> - Our friend, for his help reviewing the code.    <br>
  </ul>
    <br>
    
