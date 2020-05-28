@@ -30,7 +30,44 @@ The main objective of the experiment is to study the relativity of the movement 
 <br>
 
  
+# Code
 
+Functions of our Algorithm:
+
+```python
+    def security():
+        """
+        Function to get data from the environment on the ISS and compare it to
+        the referenced values. This is used to check if anyone is near
+        the AstroPi and to set colors and messages on the Sense Hat
+        depending on Human Presence.
+        """
+    
+    def get_Lat_Lon():
+        """
+        Function to get the latitude and longitude values
+        from the 'ephem' library and write them to EXIF data for the
+        photographys.
+        """
+    
+   def photography():
+    """
+    Function to take photographs every 5 seconds.
+    """
+    
+    def data():
+        """
+        Function to read the data gathered by the Raspberry Pi and store it in designated log file.
+        """
+    
+    def MainFunction():
+        """
+        Function to run all the other functions in a multi-threading procedure.
+        """  
+```
+
+
+<br>
 
 
 # Files   
