@@ -51,9 +51,9 @@ Functions of our Algorithm:
         """
     
    def photography():
-    """
-    Function to take photographs every 5 seconds.
-    """
+        """
+        Function to take photographs every 5 seconds.
+        """
     
     def data():
         """
