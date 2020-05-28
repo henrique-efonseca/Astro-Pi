@@ -31,7 +31,7 @@ The main objective of the experiment is to study the relativity of the movement 
 
  
 # Code
-Our Algorithm has a run-time of approximately 3 hours (2 ISS orbits).
+Our Algorithm has a run-time of approximately 3 hours (2 ISS orbits). <br>
 Functions of our Algorithm:
 
 ```python
