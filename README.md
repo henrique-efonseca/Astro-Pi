@@ -31,7 +31,7 @@ The main objective of the experiment is to study the relativity of the movement 
 
  
 # Code
-
+Our Algorithm has a run-time of approximately 3 hours (2 ISS orbits).
 Functions of our Algorithm:
 
 ```python
@@ -73,7 +73,7 @@ Functions of our Algorithm:
 # Files   
  <b> Files description: </b> <br>
   <ul>
-    <li> <a href="https://github.com/henrique-efonseca/AstroPi/blob/master/main.py"> main.py</a> - Program of the project. <br>
+    <li> <a href="https://github.com/henrique-efonseca/AstroPi/blob/master/main.py"> main.py</a> - Code of the project. <br>
  <li> <a href="https://github.com/henrique-efonseca/AstroPi/blob/master/Report.pdf"> Report.pdf</a> - Final report of the experiment. <br>
     <li> <a href="https://github.com/henrique-efonseca/AstroPi/blob/master/Data01.csv"> Data01.csv</a> - File with raw data collected.  <br>
     <li> <a href="https://github.com/henrique-efonseca/AstroPi/blob/master/Data02.csv"> Data02.csv</a> - File with raw data collected.  <br>
