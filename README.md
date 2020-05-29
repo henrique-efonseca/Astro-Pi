@@ -73,8 +73,9 @@ Functions of the Algorithm:
 Example of the images we used for calculating the relative velocity:
 
 ![20x20 grid](https://github.com/henrique-efonseca/Astro-Pi/blob/master/Photographs/coscodingofspace_photo_0654.jpg)
+
 ![20x20 grid](https://github.com/henrique-efonseca/Astro-Pi/blob/master/Photographs/globe.jpeg)
-![20x20 grid](https://github.com/henrique-efonseca/Astro-Pi/blob/master/Photographs/distance.jpeg)
+
 
 <br>
 
