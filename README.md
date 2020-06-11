@@ -19,9 +19,8 @@
 
 
 # Introduction
-"_The European Astro Pi Challenge is an ESA Education project run in collaboration with the Raspberry Pi Foundation. It offers young people the amazing opportunity to conduct scientific investigations in space by writing computer programs that run on Raspberry Pi computers aboard the International Space Station (ISS)_." <br>
-<br>
-"_Mission Space Lab offers students and young people the chance to have their scientific experiments run on the ISS. Your challenge is to design and program an experiment to be run on an Astro Pi computer. The best experiments will be deployed to the ISS, and your team will have the opportunity to analyse your results and put together a short report about your findings. The ten teams that write the best reports will be selected as the Astro Pi Mission Space Lab winners_!"<br>
+>The European Astro Pi Challenge is an ESA Education project run in collaboration with the Raspberry Pi Foundation. It offers young people the amazing opportunity to conduct scientific investigations in space by writing computer programs that run on Raspberry Pi computers aboard the International Space Station (ISS). <br>
+Mission Space Lab offers students and young people the chance to have their scientific experiments run on the ISS. Your challenge is to design and program an experiment to be run on an Astro Pi computer. The best experiments will be deployed to the ISS, and your team will have the opportunity to analyse your results and put together a short report about your findings. The ten teams that write the best reports will be selected as the Astro Pi Mission Space Lab winners!
 <br>
 
 # Mission Resume
