@@ -10,7 +10,7 @@
 <li> David Nabeiro <br>
 <li> <a href="https://github.com/henrique-efonseca"> Henrique Fonseca </a> <br>
 <li> Rodrigo Estrela <br>
-<li> Tomás Carvalho<br>
+ <li> <a href="https://github.com/tomasglcc"> Tomás Carvalho </a> <br>
 </ul>
 <b> School: </b> Escola Secundária Sebastião e Silva<br>
 <b> City:</b> Oeiras <br>
